@@ -25,7 +25,7 @@ import google.auth
 import google.auth.exceptions
 import google.auth.transport.grpc
 import google.auth.transport.requests
-from google.cloud.grpc.speech.v1beta1 import cloud_speech_pb2 as cloud_speech
+from google.cloud.grpc.speech.v1 import cloud_speech_pb2 as cloud_speech
 from google.rpc import code_pb2 as error_code
 from google.assistant.embedded.v1alpha1 import embedded_assistant_pb2
 import grpc
