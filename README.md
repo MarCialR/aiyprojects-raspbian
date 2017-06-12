@@ -11,3 +11,7 @@ If you're using Rasbian instead of Google's provided image, read
 
 The scripts in the `checkpoints` directory verify the Raspberry Pi's setup.
 They can be run from the desktop shortcuts or from the terminal.
+
+
+https://github.com/google/aiyprojects-raspbian/search?utf8=%E2%9C%93&q=speech&type=
+https://aiyprojects.withgoogle.com/voice#makers-guide-1-2--config-files
